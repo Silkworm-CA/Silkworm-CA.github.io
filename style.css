@@ -30,7 +30,7 @@ html{
     width: calc(6vmin * 16);
     background-repeat: no-repeat;
     background-size: 100%;
-    background-image: url("/project/letter-front.svg");
+    background-image: url("/letter-front.svg");
 }
 .letter{
     transition: opacity 2s;
@@ -39,7 +39,7 @@ html{
     width: calc(6vmin * 16);
     background-repeat: no-repeat;
     background-size: 100%;
-    background-image: url("/project/letter-side.svg");
+    background-image: url("/letter-side.svg");
 }
 .flipper{
     transition: 0.6s;

@@ -7,8 +7,8 @@ html{
 #main{
     background-image: url("/2022/1.png");
     background-size:100%;
-    height: calc(6vmin * 9);
-    width: calc(6vmin * 16);
+    height: calc(6vmin * 6.18);
+    width: calc(6vmin * 10);
     pointer-events: none;
 }
 #start{

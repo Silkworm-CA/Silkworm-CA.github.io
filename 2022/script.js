@@ -15,7 +15,7 @@ function Add()
     else{
         if(PictureRank < TotalPictures) {
             PictureRank += 1;
-            document.getElementById("main").style.backgroundImage = `url(/2022/img/${PictureRank}.png)`;
+            document.getElementById("main").style.backgroundImage = `url(/2022/${PictureRank}.png)`;
             if(PictureRank == TotalPictures) {
                 document.getElementById("nxt-page").style.visibility = "hidden";
             }

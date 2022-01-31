@@ -1,5 +1,5 @@
 let PictureRank = 0;
-let TotalPictures = 5;
+let TotalPictures = 4;
 function End()
 {
     document.getElementById("start").classList.add("fde");
